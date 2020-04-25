@@ -1,4 +1,5 @@
 import random
+
 liste = []
 history = []
 lenhistory = []
